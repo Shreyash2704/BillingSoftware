@@ -1,0 +1,19 @@
+	Welcome Retail Shop
+
+ Bill Number : 4131
+ Customer Name : shreyash
+ Phone Number : 986764545
+=====================================
+ Products		QTY		Price
+=====================================
+ Bath Soap		1		40
+ SunScreen		2		240
+ Face Wash		3		180
+ Daal		1		60
+ Maza		1		60
+-------------------------------------
+ Cosmetic Tax			Rs. 23.0
+ Grocery Tax			Rs. 6.0
+ Beverage Tax			Rs. 3.0
+ Total Bill : 			Rs. 612.0
+-------------------------------------

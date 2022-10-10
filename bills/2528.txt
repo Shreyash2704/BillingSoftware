@@ -1,0 +1,19 @@
+	Welcome Retail Shop
+
+ Bill Number : 2528
+ Customer Name : Sam 
+ Phone Number : 7657383940
+=====================================
+ Products		QTY		Price
+=====================================
+ Bath Soap		1		40
+ Body Lotion		1		180
+ Food Oil		1		180
+ Maza		2		120
+ Fanta		1		40
+-------------------------------------
+ Cosmetic Tax			Rs. 11.0
+ Grocery Tax			Rs. 18.0
+ Beverage Tax			Rs. 8.0
+ Total Bill : 			Rs. 597.0
+-------------------------------------

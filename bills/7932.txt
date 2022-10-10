@@ -1,0 +1,22 @@
+	Welcome Retail Shop
+
+ Bill Number : 7932
+ Customer Name : Sahil
+ Phone Number : 98856434655
+=====================================
+ Products		QTY		Price
+=====================================
+ Bath Soap		2		80
+ SunScreen		2		240
+ Hair Conditioner		2		360
+ Food Oil		2		360
+ Wheat		3		720
+ Maza		3		180
+ Fanta		2		80
+ Pepsi		1		45
+-------------------------------------
+ Cosmetic Tax			Rs. 34.0
+ Grocery Tax			Rs. 108.0
+ Beverage Tax			Rs. 15.25
+ Total Bill : 			Rs. 2222.25
+-------------------------------------

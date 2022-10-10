@@ -1,0 +1,17 @@
+	Welcome Retail Shop
+
+ Bill Number : 5432
+ Customer Name : Shreyahs
+ Phone Number : 98765767
+=====================================
+ Products		QTY		Price
+=====================================
+ SunScreen		1		120
+ Wheat		2		480
+ Coke		2		120
+-------------------------------------
+ Cosmetic Tax			Rs. 6.0
+ Grocery Tax			Rs. 48.0
+ Beverage Tax			Rs. 6.0
+ Total Bill : 			Rs. 780.0
+-------------------------------------

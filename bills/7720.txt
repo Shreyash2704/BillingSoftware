@@ -1,0 +1,19 @@
+	Welcome Retail Shop
+
+ Bill Number : 7720
+ Customer Name : Raj
+ Phone Number : 776455465
+=====================================
+ Products		QTY		Price
+=====================================
+ Bath Soap		2		80
+ SunScreen		2		240
+ Daal		1		60
+ Sugar		18		810
+ Coke		2		120
+-------------------------------------
+ Cosmetic Tax			Rs. 16.0
+ Grocery Tax			Rs. 87.0
+ Beverage Tax			Rs. 6.0
+ Total Bill : 			Rs. 1419.0
+-------------------------------------
